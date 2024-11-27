@@ -27,7 +27,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.App</mainClass> <!-- Укажите ваш главный класс -->
+                            <mainClass>com.example.App</mainClass> <!-- Ваш главный класс -->
                         </manifest>
                     </archive>
                 </configuration>
